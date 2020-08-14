@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab13.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DomesticCat.cpp
+  WildCat.cpp
+  Generating Code...
+  Lab13.vcxproj -> C:\Users\omer2\Dropbox\C++\1.B.Assignment 12\skeleton\Debug\1.B.Assignment 12.exe
