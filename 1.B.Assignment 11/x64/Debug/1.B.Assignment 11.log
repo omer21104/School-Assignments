@@ -1,0 +1,5 @@
+﻿  Pizza.cpp
+  Runner.cpp
+C:\Users\omer2\Dropbox\C++\1.B.Assignment 11\1.B.Assignment 11\Runner.cpp(23,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  1.B.Assignment 11.vcxproj -> C:\Users\omer2\Dropbox\C++\1.B.Assignment 11\x64\Debug\PizzaDelivery.exe
